@@ -1,0 +1,2 @@
+# StudyNova website prototype
+
